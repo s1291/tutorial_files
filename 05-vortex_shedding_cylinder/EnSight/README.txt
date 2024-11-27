@@ -1,0 +1,1 @@
+This is an OpenFOAM simulation (flow around a 2D circular cylinder). The case is converted to EnSight format.
